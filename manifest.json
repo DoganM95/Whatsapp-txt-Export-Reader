@@ -1,0 +1,6 @@
+{
+    "name": "WhatsApp Chat Export Reader",
+    "version": "1.0",
+    "description": "Lets you upload a WhatsApp chat export and prints that in a more readable way then the raw format.",
+    "manifest_version": 2
+}
