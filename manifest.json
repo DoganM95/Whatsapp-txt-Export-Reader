@@ -5,16 +5,22 @@
             "background.js"
         ]
     },
-    "default_icon": {
+    "description": "Lets you upload a WhatsApp chat export and prints that in a more readable way then the raw format.",
+    "icons": {
         "16": "images/get_started16.png",
         "32": "images/get_started32.png",
         "48": "images/get_started48.png",
         "128": "images/get_started128.png"
     },
-    "description": "Lets you upload a WhatsApp chat export and prints that in a more readable way then the raw format.",
     "manifest_version": 2,
     "name": "WhatsApp Chat Export Reader",
     "page_action": {
+        "default_icon": {
+            "16": "images/get_started16.png",
+            "32": "images/get_started32.png",
+            "48": "images/get_started48.png",
+            "128": "images/get_started128.png"
+        },
         "default_popup": "popup.html"
     },
     "permissions": [
